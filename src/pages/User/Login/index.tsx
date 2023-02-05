@@ -145,7 +145,7 @@ const Login: React.FC = () => {
           }}
           logo={<img alt="logo" src="/logo.svg" />}
           title="Ant Design"
-          subTitle={'Ant Design 是西湖区最具影响力的 Web 设计规范'}
+          subTitle={'🐄勇敢牛牛🐮不怕困难🐄'}
           initialValues={{
             autoLogin: true,
           }}
